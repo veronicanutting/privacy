@@ -1,0 +1,159 @@
+Sweetgreen, Inc.
+Privacy policy
+Effective Date: January 2, 2021
+This “Privacy Policy” describes how Sweetgreen, Inc. (“Sweetgreen,” “We,” or “Us”) collects, uses and shares your personal information in connection with our websites (collectively, the “Site”), social media pages, mobile applications (collectively, the “Application”) and other digital platforms, including electronic devices, kiosks or tablets at Sweetgreen restaurant locations, that link to this Privacy Policy (together with the Site and Application, the “Services”), and in the context of certain offline activities at Sweetgreen restaurant locations described in this Privacy Policy.
+We provide important information for California residents here.
+Table of Contents
+Personal Information We Collect
+How We Use Your Personal Information
+How We Share Your Personal Information
+Other Sites and Services
+Your Choices
+Security
+International Data Transfers
+Children
+Changes to This Privacy Policy
+How to Contact Us
+Important Information for California Residents
+Personal Information We Collect
+Personal Information You Provide to Us. Personal information you may provide to Us through the Services or otherwise includes:
+Contact data, such as your first and last name, email address, mailing addresses and phone number.
+Profile data, such as your username and password that you set to establish an online account with Us, and other information you may submit or include in your account profile, such as your birthday. 
+Order and transactional data, such as the information necessary to process your orders when you place an order at one of our restaurants or through the Services for delivery, outpost or pick up, information about your payment transactions, and your order history.
+Communications that we exchange when you communicate with Us, such as when you request support, contact Us with questions or feedback, complete our surveys, engage with Us on social media or otherwise interact with Us.
+Marketing data, such as your preferences for receiving communications about our Services, restaurants, products, activities, events, and publications; details about how you engage with our communications; demographic information such as your gender; and information you provide when you participate in an event, contest or promotion.
+Other information that is not specifically listed here, which We will use in accordance with this Privacy Policy or as otherwise disclosed at the time of collection.
+Automatic Collection. We, our service providers and third party partners may automatically log information about you, your computer or mobile device, and your activity over time on the Site, the Application and other online Services, including:
+Device data, such as your computer or mobile device operating system type and version number, manufacturer and model, browser type, screen resolution, IP address, the website you visited before browsing to our website, unique identifiers (such as device ID), and general location information such as city, state or geographic area.
+Online activity data, such as the date and time of your visit, pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, search terms you enter using our Services, access times, and duration of access.
+Precise geolocation data, such as location-based information (by allowing our Application to access your location).
+Cookies and Similar Technologies. Like many online services, We use the following cookies and similar technologies to facilitate some of our automatic data collection:
+Cookies, which are text files that websites store on a visitor’s device to uniquely identify the visitor’s browser or to store information or settings in the browser for the purpose of tracking user activity and patterns, helping you navigate between pages efficiently, remembering your preferences and generally improving your browsing experience. This type of information is collected to make the Site more useful to you and to tailor the experience with Us to meet your special interests and needs.
+Web beacons, also known as pixel tags or clear GIFs, which are typically used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked, typically to compile statistics about usage of websites and the success of marketing campaigns. We may use web beacons to collect information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails.
+Software development kits, or SDKs, which are used to incorporate third party computer code into our Application that allows our third party service providers or advertising partners to collect data directly from our Application for a variety of purposes, including to provide Us with analytics regarding the use of our Application, to integrate with social media, add features or functionality to our Application, or to facilitate online advertising.
+Information Collected from Other Sources. We may receive personal information about you from companies that help provide our Services. We may also receive personal information from other third parties, such as:
+Data providers, such as information services and data licensors.
+Publicly-available sources, such as social media platforms.
+Marketing partners, such as companies that have entered into joint marketing relationships or other joint ventures with us.
+We may combine personal information about you that We receive from third parties with information We have already collected about you and use that combined information pursuant to this Privacy Policy.
+Information Collected from Third Party Platforms. If you communicate with Us or mention Us via social media (such as Facebook, Twitter, Google, Instagram) or other third party online platforms, We may collect information about you, such as the communications, your name, your user ID and/or user name associated with that platform and any information or content you have permitted the platform to share with Us. The platform provider’s privacy policy will apply to your interactions and its collection, use and sharing of your personal information, including when you interact with pages that We maintain on social media platforms. You or the platforms may provide Us with information about you, and we will treat such information in accordance with this Privacy Policy. You should check your privacy settings in your social media accounts to understand and change the information sent to Us through these services.
+Information About Others. If you decide to invite a third party to create an account, We will collect your and the third party’s name and e-mail address to send an e-mail and follow up with the third party. As part of your use of the Services, We may provide you the opportunity to connect automatically with your friends through the use of contact importer tools. If you elect to use these tools, We will access information regarding your friends to facilitate automatic connection with your friends. In all cases, when you share the personal information of others with Us, you are responsible for ensuring that you have their permission to do so.
+How We Use Your Personal Information
+We use your personal information for the following purposes and as otherwise described either in this Privacy Policy or at the time of collection:
+To Provide the Services. We may use your personal information to:
+Provide, operate and improve the Services and our business and develop new products or services;
+Create and administer your account;
+Fulfill your orders, including by communicating them to our local restaurants, delivery networks (including third party delivery marketplaces) and other service providers and by providing you with receipts, order confirmations and pickup instructions;
+Provide you with Services and customer support, including administering your participation in our Sweetgreen Rewards Program and other offers and promotional programs We may provide;
+Respond to your requests, resolve disputes and/or troubleshoot problems;
+Understand your needs and interest, and tailor the features and content of the Services and communications to you;
+Communicate with you about the Services, including sending you announcements, updates, security alerts, and administrative e-mail notifications such as security or support and maintenance advisories; and
+Enable security features of the Services, such as by sending you security codes via email or SMS, and remembering devices from which you have previously logged in.
+Research and Development. We may use your personal information to administer surveys and other market research, analyze audience online activity on the Services, and for other research and development purposes, including to analyze and improve the Services and our business. As part of these activities, We may create anonymous data (including aggregated and/or de-identified data) from personal information We collect by removing information that makes the data personally identifiable to you. We may use this anonymous data and disclose it to third parties for our lawful business purposes, including to analyze and improve the Services and promote our business.
+
+Advertising. We may work with third party advertising companies and social media companies that display ads on our Services and other sites and online properties. These companies may use cookies and similar technologies to try to tailor the ads you see online to your interests based on your activity over time across our Services, our Application and other sites and online properties, or your interaction with our emails. These ads are known as “interest-based advertisements.” You can learn more about your choices for limiting interest-based advertising in the Internet-Based Advertising section below.
+
+Marketing and Promotional Communications. We may send you offers and promotions from Sweetgreen, our affiliates, joint venture partners and other companies that offer products or services that may be of interest to you, in each case, as permitted by law. You can opt out of our marketing and promotional communications as described in the Opt Out of Marketing Communications section below.
+Compliance and Protection. Regardless of any choices you make below, We may use your personal information if We believe in good faith that such disclosure is appropriate to:
+comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities;
+protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims); 
+enforce the terms and conditions that govern the Services; and 
+prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft, or assist in preventing any violation or potential violation of the law, this Privacy Policy, our applicable Terms of Use Agreement, or any other contractual arrangement.
+How We Share Your Personal Information
+We may share your personal information as described below and as otherwise described either in this Privacy Policy or at the time of collection:
+
+Third Parties Designated by You. When you use the Services, the personal information you provide will be shared with any third parties that you authorize to receive such information.
+
+Service Providers. We may share your personal information with companies and individuals that provide services on our behalf or help us operate the Service or our business (such as customer support, hosting, payment processing, order and menu processing, analytics, email delivery, food delivery, marketing, and mobile application development and operation). These third parties may use your personal information only to help us operate the Service or our business as authorized under our contracts with them.
+
+Affiliates. We may share some or all of your personal information with our parent company, subsidiaries, and other companies under common ownership or control with us for purposes consistent with this Privacy Policy.
+
+Joint Marketing Partners and Joint Ventures. We may also share any personal information we collect with third party companies that have entered into joint marketing collaborations or other joint ventures with Us, which may use and share such information pursuant to its own privacy policy.
+
+Advertising Partners. We may also enable third party advertising companies to collect information about your activity on the Services for the purposes described in the Advertising section above and/or use hashed customer lists that we share with them to deliver ads to them and similar users on their platforms.
+
+Corporate Restructuring. We may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, receivership or similar proceeding, personal information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the personal information collected by Us and will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
+
+Third Party Platforms. Some of our Services may enable you to connect to social media or other third party platforms and authorize Us to share your personal information with them, such as when you post content or use options to access the Services by logging into the third party platform. If you choose to do this, We will provide information to such platforms in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those third party platforms and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such platform. We will not be responsible or liable for: (i) the availability or accuracy of such platforms; (ii) the content, products or services on or availability of such platforms; or (iii) your use of any such platforms.
+
+Authorities and Others. We may disclose personal information to law enforcement, government authorities and private parties if it believes in good faith that such disclosure is appropriate or necessary for the Compliance and Protection purposes described above.
+
+Professional Advisors. We may disclose your personal information to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to Us.
+Other Sites and Services
+Our Services may contain links to websites, mobile applications or other online services operated by third parties. When you click on a link to any other website, mobile application or online service, you will leave our Services and go to another site, and another entity may collect personal information or anonymous data from you. In addition, our content may be included on other online services that are not associated with Us. We have no control over, do not review, and are not responsible for, these third party online services or for their content or actions. Other online services follow different rules regarding the collection, use and sharing of your personal information. We encourage you to read the privacy policies of other online services that you visit or use. The links to third party online services are for your convenience and do not signify our endorsement of, or affiliation with, any third party or its services.
+Your Choices
+Opt-Out of Marketing Communications. When you create an account and provide your email address, we will periodically send you administrative e-mails, free newsletters, and e-mails that directly promote the use of our and our Services. You may opt-out of marketing-related emails by following the unsubscribe instructions provided at the bottom of any e-mail you receive from Us or by contacting Us directly at privacy@sweetgreen.com. Despite opting opt of marketing-related emails, you may continue to receive service-related and other non-marketing communications, including notices of any updates to our Terms of Use Agreement or Privacy Policy. 
+Text Messages. We may offer communications via SMS texts or similar technology (including via automatic telephone dialing equipment, if we received the appropriate consents from you in accordance with applicable law) sent by Sweetgreen or any of its service providers, such as when we send you text messages to confirm, process and notify you about the status and pickup location of an order you place with us, or for any customer service, account-related or marketing purpose. To stop receiving text messages from a short code operated by Sweetgreen, reply STOP to any message you receive from such short code. Note that we may send you a message to confirm receipt of your STOP request. Message and data rates may apply for this service. You can also opt-out of Sweetgreen marketing texts by emailing us your request and mobile telephone number to privacy@sweetgreen.com. 
+Interest-Based Advertising. Some of our advertising partners are members of the Network Advertising Initiative (NAI) and are subject to the Self-Regulatory Principles for Online Behavioral Advertising published by the Digital Advertising Alliance (DAA). You can obtain more information about these companies’ information collection practices, and opt-out of receiving interest-based advertising from participating NAI and DAA members at http://optout.networkadvertising.org/?c=1 and/or the DAA’s website at optout.aboutads.info. Mobile app users may opt out of receiving interest-based advertising in mobile apps provided by participating members of the Digital Advertising Alliance by installing the AppChoices mobile app, available at https://youradchoices.com/appchoices. In addition, your mobile device settings may provide functionality to limit use of the advertising ID associated with your mobile device for targeted online advertising purposes. If you opt-out of interest-based advertisements, you will still see advertisements online but they may be less relevant to you. 
+You can learn more about how Google uses data at https://policies.google.com/technologies/partner-sites and about how Facebook uses data at https://www.facebook.com/privacy/explanation. You can opt out-out of personalized ads from Google by visiting https://adssettings.google.com, or from Facebook by visiting https://www.facebook.com/about/ads and following the instructions to manage your ad preferences. 
+Please note that we also may work with companies that offer their own opt-out mechanisms or do not participate in the opt-out mechanisms described above. Even after using these opt-out mechanisms, you may receive interest-based advertising from other companies. 
+Cookies. Most browsers let you remove and/or stop accepting cookies from the websites you visit. To do this, follow the instructions in your browser’s settings. Many browsers accept cookies by default until you change your settings. If you do not accept cookies, however, you may not be able to use all functionality of the Services and our Site may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit www.allaboutcookies.org.
+Location Information. You can deactivate location access on your mobile device.
+Do Not Track. Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We do not currently respond to “do not track” or similar signals from web browsers. To find out more about “Do Not Track,” please visit http://www.allaboutdnt.com.
+Choosing Not to Share Your Personal Information. If you do not provide information that We need to provide the Service, We may not be able to provide you with the Services or certain features. We will tell you what information you must provide to receive the Services when We request it.
+Security
+We use a variety of technical, organizational and physical safeguards designed to help protect your personal information. However, security risk is inherent in all internet and information technologies and We cannot guarantee the security of your personal information.
+International Data Transfers
+We are headquartered in the United States and may from time to time have service providers who operate in other countries, and your personal information may be transferred to or from the United States or other locations outside of your state, province, or country where privacy laws may not be as protective as those in your state, province, or country.
+Children
+Our Services are not intended for use by children under the age of 16. If We learn that We have collected personal information of a child under 16 without the consent of the child’s parent or guardian as required by law, We will delete it as soon as possible. If you believe that We might have any personal information collected online from a child under 16, please contact Us at privacy@sweetgreen.com.
+Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time for any reason. If We make material changes to this Privacy Policy we will notify you by posting the new Privacy Policy at http://sweetgreen.com/privacy-policy and changing the effective date listed at the top of this Privacy Policy. If required by law We will also provide notification of changes in another way that We believe is reasonably likely to reach you, such as via e-mail or another manner through the Services. Any modifications to this Privacy Policy will be effective upon our posting the modified version as described above (or as otherwise indicated at the time of posting). In all cases, your continued use of the Service after the posting of any modified Privacy Policy indicates your acceptance of the modified Privacy Policy.
+How to Contact Us
+Please direct any questions or comments to:  
+Sweetgreen, Inc.
+3000 S Robertson Blvd.
+Los Angeles, CA 90034
+Attention: Legal Department
+privacy@sweetgreen.com
+Important Information for California Residents
+This section applies only to California residents. If you are a California resident, this section describes how We collect and use your Personal Information (as defined below) in operating our business and our Services, including when you interact with Us in restaurants (including using any kiosks or tablets in our restaurants), on our Site and our Application, at events or when visiting our offices, and your rights with respect to that Personal Information. For purposes of this section, “Personal Information” has the meaning given in the California Consumer Privacy Act of 2018 (“CCPA”) but does not include information exempted from the scope of the CCPA. 
+Sweetgreen and contractors may view the Sweetgreen Privacy Notice for California Contractors by visiting http://sweetgreen.com/privacy-policy/ca-contractor-notice.
+Your California privacy rights. You have the rights listed below, but they are not absolute, and in certain cases We may deny your request as permitted or required by law. If We deny your request, We will let you know.
+Information. You can request the following information about how We have collected and used your Personal Information during the past 12 months:
+The categories of Personal Information that We have collected.
+The categories of sources from which We collected Personal Information.
+The business or commercial purpose for collecting and/or selling Personal Information.
+The categories of third parties with whom We share Personal Information.
+Whether We have disclosed your Personal Information for a business purpose or sold it, and if so, the categories of Personal Information received by each category of third party recipient.
+Access. You can request a copy of the Personal Information that We have collected about you during the past 12 months. 
+Deletion. You can ask Us to delete the Personal Information that we collected or maintain about you. If you request that We delete your Personal Information, We will need to delete your account entirely and We will be unable to provide any online or digital services to you or support for past products or services that you have purchased.
+Opt-out of sales. If we sell your Personal Information, you can opt-out. 
+Opt-in. If We know that you are younger than 16 years old, We will ask for your permission (or if you are younger than 13 years old, your parent’s or guardian’s permission) to sell your Personal Information before We do so.
+Nondiscrimination. You are entitled to exercise the rights described above free from discrimination. This means that We will not penalize you for exercising your rights by taking actions such as denying you services; increasing the price/rate of services; decreasing service quality; or suggesting that We may penalize you as described above for exercising your rights.
+How to exercise your rights. 
+You may exercise your California privacy rights described above as follows:
+Right to information, access and deletion.
+You can request to exercise your rights to information, access and deletion by:
+visiting https://order.sweetgreen.com/ca-data-requests
+calling us toll free at (833) 309-9300
+emailing privacy@sweetgreen.com
+Right to opt-out of the “sale” of your Personal Information.
+Like many companies online that have a mobile application, We use services provided by Google, Facebook and others that help deliver interest-based ads to you. California law may classify our use of these services as a “sale” of your Personal Information to the companies that provide the services because We permit them to collect information from our users (e.g., device data and online activity data) to help them serve interest-based ads online. You can request to opt-out of this “sale” of your Personal Information here: https://order.sweetgreen.com/ca-data-requests
+Right to information about third party disclosures for direct marketing purposes.
+If you are a user of the Services and a California resident, California’s “Shine the Light” law (California Civil Code § 1798.83) permits you to request and obtain from Us once a year, free of charge, information regarding our disclosure of your personal information (if any) to third parties for their direct marketing purposes during the preceding year. If this law applies to you and you would like to make such a request, please submit your request in writing to with “Shine the Light” in the subject line. The request must include your name, street address, city, state, and ZIP code and an attestation that you are a California resident. We are not responsible for requests that are not labeled or sent properly, or that do not have complete information.
+We reserve the right to confirm your California residency to process your requests. In accordance with the CCPA, We will need to confirm your identity to process your requests to exercise your information, access or deletion rights. As a part of this process, We may require you to login to the Services or require you to provide government identification, signed declarations and other proof of identity. Consistent with California law, you may designate an authorized agent to make a request on your behalf. To designate an authorized agent to make a request on your behalf, you must provide a valid power of attorney, the requester’s valid government-issued identification, and the authorized agent’s valid government issued identification. We cannot process your request if you do not provide Us with sufficient detail to allow Us to understand and respond to it.  
+Personal information that we collect and use
+The list below summarizes the Personal Information We collect and use by reference to the categories specified in the CCPA in California Civil Code § 1798.140(o), and describes our practices during the 12 months preceding the effective date of this Privacy Policy. The “categories we collect” refer to the categories described above in section entitled Personal Information We Collect.
+Identifiers 
+Categories we collect: Contact data, Profile data, Communications and Information About Others
+Commercial Information
+Categories we collect: Contact data, Profile data, Order and transactional data, Communications, Marketing data, Online Activity Data
+Financial Information
+Categories we collect: Contact data, Profile data, Communications, Order and transactional data
+Online Identifiers
+Categories we collect: Contact data, Profile data, Order and transactional data, Communications, Device data, Online activity data
+Internet or Network Information
+Categories we collect: Order and transactional data, Communications, Marketing data, Device data, Online activity data, Precise geolocation data
+Geolocation Data
+Categories we collect: Precise geolocation data, Device data, Order and transactional data
+Inferences
+Categories we collect: Information that may be derived from your Order and transactional data, Communications, Marketing data, Device data, Online activity data, Precise geolocation data
+Protected Classification Characteristics
+Categories we collect: We do not intentionally collect this information but it may be revealed in Contact data, Profile data, Order and transactional data, Communications, Marketing data, Online activity data or other information we collect.
+Sensory Information
+Categories we collect: Other Information which may be captured by security camera footage recorded at our restaurants, offices or facilities.
+For information about:
+The categories of sources of this information, see the section above entitled Personal Information We Collect;
+The business/commercial purposes for which we collect this information, see the section above entitled How We Use Your Personal Information;
+The categories of third parties to which we disclose this information for business purposes, see the section above entitled How We Share Your Personal Information.
