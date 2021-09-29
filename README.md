@@ -6,10 +6,10 @@ Excerpt from a paper I wrote about this project. Read it in full [here](http://b
 
 ## An Analysis of the Privacy Policies of “Back to School” Websites 
 
-# Aim:
+### Aim:
 To compare the privacy policies of various websites I used in the first two weeks of school to purchase back to school supplies or otherwise use a related service.
 
-# Methods: 
+### Methods: 
 I made a list of the websites I had visited for “back to school” reasons. I chose this subset of websites because (1) I have recently visited them, (2) I had a particular non-entertainment-related reason or need to visit them, and (3) I think my peers may have visited similar sites. Then I searched for their Privacy Policies, copied the policy texts into .txt  files, and saved them locally on my computer. Links to all the Privacy Policies are available in the Appendix and all the .txt  files are available on the GitHub repo linked below.
 
 Originally, I intended to build a tool that would take in a link or PDF file and scrape the text directly from there. However, I discovered that there was significant variation in the page structures which would make such scraping for different websites difficult. Since I did not want to limit the scope of my analysis only to websites with policies structured in a way I could easily scrape, I opted to copy and paste the texts into .txt  files. This step can be reproduced by visiting the linked privacy policies and copy-pasting their main bodies of text into .txt files
